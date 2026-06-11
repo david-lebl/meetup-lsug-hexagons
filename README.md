@@ -19,13 +19,13 @@ My Hexagons guideline repo: **Scala Project Style Guide** — https://github.com
 **Inspired by:**
 
 - Complexity is a Sin by Volodymyr Yaroslavskyi: https://www.youtube.com/watch?v=qBfQWtUa4U8
+- Pathodental Complexity by Alexander Ioffe: https://www.youtube.com/watch?v=8PJ8zq0XFSA
 - Diamond architecture — ScalaDays 2023 by David Amancio Gil Méndez: https://www.youtube.com/watch?v=CkWRg4A2YhQ
 - Diamond architecture — DevInsideYou:
   - https://www.youtube.com/watch?v=B6bmlh1hCLo
   - https://github.com/DevInsideYou/pfps-shopping-cart/tree/diamonds
-- Pathodental Complexity by Alexander Ioffe: https://www.youtube.com/watch?v=8PJ8zq0XFSA
+- Modeling in Scala, part 1: modeling your domain - https://kubuszok.com/2024/modeling-in-scala-part-1/
 - *Domain Modeling Made Functional* — book by Scott Wlaschin: https://share.google/GzSThdgT1UOdJtIWA
-
 
 ## Summary
 
